@@ -59,6 +59,15 @@ src/
 
 ---
 
+🌐 Frontend
+
+O frontend desta aplicação foi desenvolvido com Angular.
+Para mais informações, acesse o repositório:
+🔗 Login Page Angular
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b94502ac-b476-4884-a024-e6d9e9b50260" /> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79c67c45-2a90-4563-9659-2750e3a23843" />
+
+
 ### 1. Clone o repositório
 
 ```bash
